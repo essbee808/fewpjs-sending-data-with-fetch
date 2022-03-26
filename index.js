@@ -12,8 +12,8 @@
 //     })
 // };
 let formData = {
-    name: "Solo",
-    email: "solo@gmail.com"
+    name: "Steve",
+    email: "steve@steve.com"
 }
 
 const configObj = {
